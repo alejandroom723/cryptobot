@@ -1,0 +1,10 @@
+data/
+.venv/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+__pycache__/
+*.pyc
+.claude/
